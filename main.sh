@@ -10,11 +10,11 @@ rm ids.txt
 #### ==================================== #####
 
 
-# Command for Q1
+# mkdir quiz.sh
 
-# Command for Q2
+# chmod 777 quiz.sh
 
-# Command for Q3
+# cat ./profiles2021/cumhurbasar.txt
 
-# Command for Q4
+# cp ./profiles2020/* ./profiles2021
 
